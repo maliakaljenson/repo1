@@ -1,7 +1,7 @@
 # Simple Python Program
 
 # Print a message
-print("Hellooooyyyy, World!!!!!!!!####  ***")
+print("Hellooooytttyyy, World!!!!!!!!####  ***")
 
 # Add two numbers
 a = 10
