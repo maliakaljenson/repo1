@@ -9,4 +9,4 @@ b = 5
 sum = a ++ b
 
 # Display the result
-pri("Sum of a&B", a, "and", b, "is", sum)
+pri("Sum of a&B ", a, "and", b, "is", sum)
